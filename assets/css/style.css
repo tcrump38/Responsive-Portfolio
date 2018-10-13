@@ -343,6 +343,18 @@ a {
     #portfolio {
         width: 75%;
     }
+
+    #contact-box,
+    #contact,
+    #contact-form,
+    label,
+    #email-label,
+    #message-label,
+    input,
+    textarea,
+    #submit {
+        width: 70%;
+    }
 }
 
 @media screen and (max-width:768px){
@@ -350,8 +362,8 @@ a {
         display: grid;
     }
     #social-links-box1 {
-        width: 91%;
-        margin-left: 8.7%;
+        width: 70%;
+        margin-left: 11%;
     }
     #connect-links1 {
         text-align: center;
@@ -360,6 +372,13 @@ a {
         float: none;
         margin-left: 50%;
     }
+    #bio-box {
+        width: 70%;
+        height: 100%;
+    }
+    #aboutme {
+        width: 80%;
+    }
 
 
 
@@ -367,15 +386,19 @@ a {
         display: grid;
     }
     #social-links-box2 {
-        width: 91%;
-        margin-left: 8.7%;
+        width: 70%;
+        margin-left: 11%;
     }
     #connect-links2 {
         text-align: center;
     }
     #navbar {
+        margin: auto;
         float: none;
         margin-left: 50%;
+    }
+    #bottom-container2 {
+        margin-top: 30%;
     }
     
 
@@ -409,5 +432,11 @@ a {
     }
     #bottom-container3 {
         margin-top: 80%;
+    }
+    #social-links-box1 {
+        margin-left: 14%;
+    }
+    #social-links-box2 {
+        margin-left: 14%;
     }
 }
