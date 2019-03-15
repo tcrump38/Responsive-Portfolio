@@ -2,7 +2,7 @@
 
 Link: https://tcrump38.github.io/Responsive-Portfolio/
 
-This is an early portfolio page created using plain css and media queries to make the page responsive.
+This is an early portfolio page created using plain css and media queries to make the page responsive. Media queries were a bit tedious to construct manually but the site is now mobile-friendly.
 
 Home page:
 <img width="1288" alt="Screen Shot 2019-03-15 at 1 22 10 PM" src="https://user-images.githubusercontent.com/39817046/54453501-71326180-4725-11e9-8a05-675d32ff4fe8.png">
